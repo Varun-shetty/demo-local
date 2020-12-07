@@ -8,8 +8,7 @@ Creating a Git trepo locally
 Trying out new feature
 
 # Local Dev
-Trying out latest feature
-
+Trying out latest feat
 
 
 
